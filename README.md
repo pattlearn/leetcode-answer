@@ -10,3 +10,4 @@ This repository contains my solution of [LeetCode problems](https://leetcode.com
 - [Problem 14. Longest Common Prefix](https://github.com/pattlearn/leetcode-answer/tree/main/14.%20Longest%20Common%20Prefix) | [LeetCode](https://leetcode.com/problems/longest-common-prefix/description/)
 - [Problem 20. Valid Parentheses](https://github.com/pattlearn/leetcode-answer/tree/main/20.%20Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/valid-parentheses/description/)
 - [Problem 21. Merged Two Sorted Lists](https://github.com/pattlearn/leetcode-answer/tree/main/9.%20Palindrome%20Number) | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+- [Problem 26. Remove Duplicates from Sorted Array](https://github.com/pattlearn/leetcode-answer/tree/main/26.%20Remove%20Duplicates%20from%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
